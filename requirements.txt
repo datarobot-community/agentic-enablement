@@ -1,0 +1,15 @@
+
+pandas
+numpy
+datarobot
+python-dotenv
+crewai
+crewai-tools
+langchain-openai
+langchain-community
+langchain-google-genai
+ddgs
+ipywidgets
+pydantic
+typing-extensions
+requests
